@@ -38,7 +38,7 @@
 - Функция потерь: Dice Loss
 - Метрики: F1-score, IoU
 - Эпохи: 60
-- Batch size: 16
+- Batch size: 32
 
 **Стратегия:**
 - Снижение learning rate каждые 15 эпох
